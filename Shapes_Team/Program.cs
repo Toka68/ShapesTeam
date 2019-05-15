@@ -10,6 +10,7 @@ namespace Shapes_Team
     {
         static void Main(string[] args)
         {
+            //shapes team project
             Console.WriteLine("Intialize of ShapesTeam");
         }
     }
